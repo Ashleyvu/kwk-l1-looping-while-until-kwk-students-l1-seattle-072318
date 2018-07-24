@@ -4,6 +4,7 @@ def using_while
 	puts "Wingardium Leviosa"
 	levaitation_force += 1
 	end
+	puts "Our feathers is flyin' high! Hermoine is so so proud."
 end
 
 using_while
